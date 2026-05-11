@@ -1,0 +1,16 @@
+# Dependances
+node_modules/
+# Secrets
+.env
+.env.local
+# Fichiers generes
+dist/
+build/
+*.log
+# Editeurs et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Tests
+coverage/
